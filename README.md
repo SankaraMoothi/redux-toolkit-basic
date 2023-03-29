@@ -1,3 +1,8 @@
+Absolute Basic Redux Toolkit Project
+
+![redux](https://user-images.githubusercontent.com/107635975/228577566-bda9d89a-34f4-4755-a6ba-250a056382fa.png)
+
+
 [Redux Toolkit Docs](https://redux-toolkit.js.org/introduction/getting-started)
 
 #### Install Template
